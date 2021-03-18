@@ -129,6 +129,7 @@ footer {
     z-index: 3;
     bottom: 0;
     right: 0;
+    top: 50px;
 }
 
 nav ul {
