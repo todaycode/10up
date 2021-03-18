@@ -31,6 +31,10 @@ footer {
     justify-content: center;
 }
 
+a:hover {
+    text-decoration: none;
+}
+
 .bg-black {
     background-color: rgba(0, 0, 0, 0.7);
 }
